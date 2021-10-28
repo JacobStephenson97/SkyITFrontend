@@ -1,0 +1,30 @@
+/* Certification background colors  */
+
+.ACCOMPANIMENT {
+    color: #c63737;
+    background: #FFCDD2;
+}
+
+.CA-PG {
+    color: #805b36;
+    background: #FEEDAF;
+}
+
+.GENERAL {
+    color: #256029;
+    background: #C8E6C9;
+}
+
+/* Certification font styling */
+
+.certification {
+    font-weight: 700;
+    padding: 0px 8px 0px 8px;
+    font-size: 14px;
+}
+
+/* set width for our inputs */
+
+.p-inputtext, .p-dropdown, .p-multiselect {
+    width: 100%;
+}
